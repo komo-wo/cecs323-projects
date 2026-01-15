@@ -1,6 +1,6 @@
 // Katherine Kim
 // Class (CECS 325-01)
-// Project Name (Prog 7 – BigInt)
+// Project Name (Prog 6 – Three N Problem)
 // Due Date (12/06/2023)
 //
 // I certify that this program is my own original work. I did not copy any part of this program from
